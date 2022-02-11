@@ -22,5 +22,16 @@ After successful sending, you will be redirected to the page with postcards of t
 
 ### Video
 
+
+### Build
+```
+$ cargo build --target wasm32-unknown-unknown --release
+$ copy target\wasm32-unknown-unknown\release\near_postcards.wasm main.wasm 
+```
+### Deploy
+```
+$ near deploy --wasmFile main.wasm --accountId account.near
+```
+
 ### Support
 <a href="https://t.me/nearwatch">Near.Watch technical support group (telegram)</a>
