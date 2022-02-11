@@ -21,7 +21,7 @@ After successful sending, you will be redirected to the page with postcards of t
 <img src="https://telegra.ph/file/1dee2c369f02a4a6761c3.png" />
 
 ### Video
-
+https://youtu.be/jYkiEB18GeY
 
 ### Build
 ```
