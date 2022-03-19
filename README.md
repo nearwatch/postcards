@@ -1,4 +1,4 @@
-<a href="https://pcards.near.page" target="_blank">pcards.near.page</a><br />
+<a href="https://pcards.near.page" target="_blank">pcards.near.page</a>, <a href="https://pcards.testnet.page" target="_blank">pcards.testnet.page</a><br />
 
 ## Introduction
 Near Postcards dApp is an example of a fully decentralized Near protocol service that stores all data directly on the blockchain itself, including design templates and web interface.
